@@ -1,0 +1,9 @@
+DELETE http://localhost:3001/api/persons/3
+Content-Type: application/json
+  
+  {
+    "name": "Dan Abramov",
+    "number": "12-43-234345",
+    "id": 3
+  }
+  
